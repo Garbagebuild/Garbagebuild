@@ -1,5 +1,5 @@
-🙌👍Getting into java
-😁If you wnat to jailbreak something, email me because I want to help/learn samjoe2010.s@gmail.com
+🙌👍Getting into java.
+😁If you want to jailbreak something, email me because I want to help/learn samjoe2010.s@gmail.com
 SC490 Jethro Firmware!  This does not inlcude the userdata.img.  I do not reccomend full flash.
 # 📱 SC490 Dumbphone Firmware Dump & Notes
 Firmware is here > https://drive.google.com/file/d/15glP9zp6oW5zboZGmp7MAclDeX0Bp9Oh/view?usp=sharing
