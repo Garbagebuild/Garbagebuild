@@ -42,6 +42,6 @@ This repository contains a firmware dump and technical notes for the SC490 flip 
 ## 🔧 Flashing
 
 Use [mtkclient](https://github.com/bkerler/mtkclient) to interact with the device.
-SP Flash Tool works with flashing but I had problem dumping the data with this tool, let me know hif its just me or if SP Tool doesnt work right by Emailing me at samjo2010.s@gmail.com
+SP Flash Tool works with flashing but I had problems dumping the data with this tool, let me know if its just me or if SP Tool doesnt work right by Emailing me at samjo2010.s@gmail.com
 README.md made with chatgpt (I LOVE CHATGPT) and edited by Garbagebuild
 
