@@ -10,7 +10,7 @@ This repository contains a firmware dump and technical notes for the SC490 flip 
 
 ## 🚨 Important Notes
 
-- ⚠️ **Do NOT attempt a full flash** unless you know what you're doing. The firmware is incomplete and doing a full flash may **soft-brick** your device (plus why you do that lol I havent modified anything).
+- ⚠️ **Do NOT attempt a full flash** unless you know what you're doing. The firmware is incomplete and doing a full flash may **soft-brick** your device.
 - ⚠️ **`userdata.img` is missing** from this repository but will be added soon.
 - ✅ Use **`mtkclient`** for all operations — **not SP Flash Tool**.
 - ⚠️ This firmware is for exploration, development, and recovery purposes only. Use at your own risk.
