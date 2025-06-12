@@ -9,7 +9,7 @@ This repository contains a firmware dump and technical notes for the SC490 flip 
 ---
 
 ## 🚨 Important Notes
-
+-If  you are looking for TWRP recovery for this device it is https://github.com/Garbagebuild/TWRP-for-Jethro here.  instructions are provided.
 - ⚠️ **Do NOT attempt a full flash** unless you know what you're doing. The firmware is incomplete and doing a full flash may **soft-brick** your device.
 - ⚠️ **`userdata.img` is missing** from this repository but will be added soon.
 - ✅ Use **`mtkclient`** for all operations — **not SP Flash Tool**.
